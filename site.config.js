@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `info-ra-log`,
-      href: "https://github.com/violett-jung/morethan-log",
+      href: "",
     },
   ],
   // blog setting (required)
@@ -52,7 +52,7 @@ const CONFIG = {
       repo: "violett-jung/morethan-log",
       // repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
       "issue-term": "og:title",
-      label: "?ìœŠ? Utterances",
+      label: "??œŠ? Utterances",
     },
   },
   cusdis: {
