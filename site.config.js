@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `info-ra-log`,
-      href: "",
+      href: "https://info-ra-log.vercel.app",
     },
   ],
   // blog setting (required)
