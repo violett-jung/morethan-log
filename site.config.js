@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `info-ra-java`,
-      href: "https://github.com/violett-jung/spring-boot-rest-api-practice",
+      href: "https://info-ra-log.vercel.app",
     },
   ],
   // blog setting (required)
@@ -52,7 +52,7 @@ const CONFIG = {
       repo: "violett-jung/morethan-log",
       // repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
       "issue-term": "og:title",
-      label: "??œŠ? Utterances",
+      label: "??ï¿½ï¿½? Utterances",
     },
   },
   cusdis: {
