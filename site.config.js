@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `info-ra-java`,
-      href: "https://github.com/violett-jung/basicjava",
+      href: "https://github.com/violett-jung/spring-boot-rest-api-practice",
     },
   ],
   // blog setting (required)
