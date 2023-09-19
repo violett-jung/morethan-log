@@ -11,10 +11,10 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `info-ra-log`,
-      href: "https://info-ra-log.vercel.app",
-    },
+    // {
+    //   name: `info-ra-log`,
+    //   href: "https://info-ra-log.vercel.app",
+    // },
   ],
   // blog setting (required)
   blog: {
